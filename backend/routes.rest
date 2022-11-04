@@ -1,1 +1,1 @@
-GET http://localhost:8080/professional # the request above returns a json object with all professional data for Enrique Terrones. No database is connected.
+LOCALHOST ### GET http://localhost:8080/contacts ### GET http://localhost:8080/contacts/622023f642f9ab4cd6e060b2 ### GET http://localhost:8080/contacts/622023f642f9ab4cd6e060b3 ### GET http://localhost:8080/contacts/622023f642f9ab4cd6e060b4
