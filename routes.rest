@@ -1,1 +1,22 @@
-LOCALHOST ### GET http://localhost:8080/contacts ### GET http://localhost:8080/contacts/622023f642f9ab4cd6e060b2 ### GET http://localhost:8080/contacts/622023f642f9ab4cd6e060b3 ### GET http://localhost:8080/contacts/622023f642f9ab4cd6e060b4
+//LOCALHOST 
+###
+GET http://localhost:8080/contacts
+### 
+GET http://localhost:8080/contacts/63656e55b30828760ec28677
+### 
+GET http://localhost:8080/contacts/63656e55b30828760ec28678 
+### 
+GET http://localhost:8080/contacts/63656e55b30828760ec28679
+
+// PRODUCTION Deploy
+###
+https://enrique341.onrender.com/contacts
+
+###
+https://enrique341.onrender.com/contacts/63656e55b30828760ec28678 
+
+###
+https://enrique341.onrender.com/contacts/63656e55b30828760ec28677
+
+###
+https://enrique341.onrender.com/contacts/63656e55b30828760ec28679
