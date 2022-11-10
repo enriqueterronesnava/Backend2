@@ -38,3 +38,22 @@ GET https://enrique341.onrender.com/contacts/63656e55b30828760ec28677
 
 ###
 GET https://enrique341.onrender.com/contacts/63656e55b30828760ec28679
+
+### Create contact 
+POST https://enrique341.onrender.com/contacts HTTP/1.1 
+content-type: application/json 
+
+{
+"firstName":"Ashley", "lastName":"Weaver", "email":"aWeaver@test.com", "favoriteColor":"Brown", "birthday":"06/19/2000"
+}
+
+### PUT contact 
+PUT https://enrique341.onrender.com/contacts/636c42273d05b78dfb7ce68c HTTP/1.1 
+content-type: application/json
+
+{
+"firstName":"Sarah", "lastName":"Birch", "email":"test@gmail.com", "favoriteColor":"Green", "birthday":"12/12/20"
+}
+
+### DELETE contact
+DELETE http://localhost:8080/contacts/636c429d3d05b78dfb7ce68d
