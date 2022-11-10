@@ -12,7 +12,7 @@ content-type: application/json
 "firstName":"Ashley", "lastName":"Weaver", "email":"aWeaver@test.com", "favoriteColor":"Brown", "birthday":"06/19/2000"
 }
 ### PUT contact 
-PUT http://localhost:8080/contacts/636c42273d05b78dfb7ce68c HTTP/1.1 
+PUT http://localhost:8080/contacts/636c43c63d05b78dfb7ce68f HTTP/1.1 
 content-type: application/json
 
 {
@@ -20,7 +20,7 @@ content-type: application/json
 }
 
 ### DELETE contact
-DELETE http://localhost:8080/contacts/636c429d3d05b78dfb7ce68d
+DELETE http://localhost:8080/contacts/636c42083d05b78dfb7ce68b
 ### 
 GET http://localhost:8080/contacts/63656e55b30828760ec28678 
 ### 
@@ -48,7 +48,7 @@ content-type: application/json
 }
 
 ### PUT contact 
-PUT https://enrique341.onrender.com/contacts/636c42273d05b78dfb7ce68c HTTP/1.1 
+PUT https://enrique341.onrender.com/contacts/636c5434129cdce1b3ae7324 HTTP/1.1 
 content-type: application/json
 
 {
@@ -56,4 +56,4 @@ content-type: application/json
 }
 
 ### DELETE contact
-DELETE http://localhost:8080/contacts/636c429d3d05b78dfb7ce68d
+DELETE https://enrique341.onrender.com/contacts/636c43c63d05b78dfb7ce68f
