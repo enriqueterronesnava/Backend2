@@ -1,23 +1,20 @@
 {
-  "contact": {
-    "firstName": "Sarah",
-    "lastName": "Birch",
-    "email": "amazingwoman@test.com",
-    "favoriteColor": "Green",
-    "birthday": "12/12/20"
+  "inv": {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "price": 28045,
+    "color": "Orange"
   },
-  "contact2": {
-    "firstName": "Jimmy",
-    "lastName": "Carter",
-    "email": "jCarter@test.com",
-    "favoriteColor": "Purple",
-    "birthday": "07/12/10"
+  "inv2": {
+    "make": "Ford",
+    "model": "Model T",
+    "price": 30000,
+    "color": "Black"
   },
-  "contact3": {
-    "firstName": "Cassandra",
-    "lastName": "Anderson",
-    "email": "AndersonC@test.com",
-    "favoriteColor": "Yellow",
-    "birthday": "02/22/95"
+  "inv3": {
+    "make": "Lamborgini",
+    "model": "Aventador",
+    "price": 417650,
+    "color": "Blue"
   }
 }
