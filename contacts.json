@@ -1,20 +1,17 @@
 {
-  "inv": {
-    "make": "Jeep",
-    "model": "Wrangler",
-    "price": 28045,
-    "color": "Orange"
+  "client": {
+    "firstName": "Sarah",
+    "lastName": "Birch",
+    "email": "amazingwoman@test.com"
   },
-  "inv2": {
-    "make": "Ford",
-    "model": "Model T",
-    "price": 30000,
-    "color": "Black"
+  "client2": {
+    "firstName": "Jimmy",
+    "lastName": "Carter",
+    "email": "jCarter@test.com"
   },
-  "inv3": {
-    "make": "Lamborgini",
-    "model": "Aventador",
-    "price": 417650,
-    "color": "Blue"
+  "client3": {
+    "firstName": "Cassandra",
+    "lastName": "Anderson",
+    "email": "AndersonC@test.com"
   }
 }

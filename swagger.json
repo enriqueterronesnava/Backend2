@@ -16,7 +16,7 @@
         "responses": {}
       }
     },
-    "/contacts/": {
+    "/inv/": {
       "get": {
         "description": "",
         "produces": ["application/json"],
@@ -65,7 +65,7 @@
         }
       }
     },
-    "/contacts/{id}": {
+    "/inv/{id}": {
       "get": {
         "description": "",
         "produces": ["application/json"],
